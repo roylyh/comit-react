@@ -6,7 +6,7 @@ let city;
 let age;
 let nextCity;
 city='Saskatoon';
-age='55';
+age=55;
 nextCity=city;
 
 console.log('mybirthday: ', mybirthday);
